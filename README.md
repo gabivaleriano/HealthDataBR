@@ -13,7 +13,7 @@ Each folder, named as the original dabase, contains:
 
 Data of the year 2022 was adopted for the main dataset. A second dataset, from the years 2021 or 2020, was assembled to evaluate models performance. 
 
-## Variables dictionary ([disease]_dictionay.pdf)
+## Variables dictionary ([disease]_dictionary.pdf)
 
 Provides the meaning and content of each feature.
 
