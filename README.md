@@ -9,7 +9,7 @@ The repository is structured as follows:
 
 Each folder, named as the original dabase, contains: 
 
-## 2 notebooks with data pre-processing (pre_[disease]_[year].ipynb)
+## Data pre-processing notebooks (pre_[disease]_[year].ipynb)
 
 Data of the year 2022 was adopted for the main dataset. A second dataset, from the years 2021 or 2020, was assembled to evaluate models performance. 
 
