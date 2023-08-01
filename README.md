@@ -1,9 +1,9 @@
 # HealthDataBR
 A repository with classification problems from the Unified Health System (SUS) in Brazil.
 
-Data present is this dataset was orignally extracted from the DATASUS, the TI department of SUS. We adopted databases of the Notifiable Diseases Information System (SINAM). 
+Data present is this dataset was originally extracted from DATASUS, the TI department of SUS. We adopted databases of the Notifiable Diseases Information System (SINAM). 
 
-The main branch includes a file with functions for data visualization and evaluating Machine Learning (ML) model performance.
+The main branch includes a file with functions for data visualization and evaluating Machine Learning (ML) models performance.
 
 The repository is structured as follows:
 
@@ -19,7 +19,7 @@ Provides the meaning and content of each feature.
 
 ## Pre_processing filters ([disease]_filters.pdf)
 
-Includes a brief description of the filters used to select features and patients.
+Includes a brief description of filters used to select features and patients.
 
 ## Dataset folders
 
