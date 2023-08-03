@@ -25,7 +25,7 @@ Includes a brief description of filters used to select features and patients.
 
 Each dataset folder contains: 
 
-### Main and validation datasets ([disease]_[outcome]_[year}.csv)
+### Main and validation datasets ([disease]\_[outcome]\_[year}.csv)
 
 One is the main dataset, containing data from the year 2022. The second is a dataset containg data from the year 2020 or 2021, employed as external validation data. 
 
