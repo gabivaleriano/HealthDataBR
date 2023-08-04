@@ -5,21 +5,18 @@ Data present is this dataset was originally extracted from DATASUS, the TI depar
 
 The main branch includes a file with functions for data visualization and evaluating Machine Learning (ML) models performance.
 
-The repository is structured as follows:
+Please note that this repository is a work in progress. In the coming days, we will be adding the following folders: dengue, COVID-19, leishmaniasis, leptospirosis, meningitis, and accidents involving venomous animals.
 
 Each folder, named as the original dabase, contains: 
 
-## Data pre-processing notebooks (pre_[disease]_[year].ipynb)
+## Data pre-processing notebooks ([disease]_[year].ipynb)
 
 Data of the year 2022 was adopted for the main dataset. A second dataset, from the years 2021 or 2020, was assembled to evaluate models performance. 
+Includes a brief description of filters used to select features and patients.
 
 ## Variables dictionary ([disease]_dictionary.pdf)
 
 Provides the meaning and content of each feature.
-
-## Pre_processing filters ([disease]_filters.pdf)
-
-Includes a brief description of filters used to select features and patients.
 
 ## Dataset folders
 
