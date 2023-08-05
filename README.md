@@ -18,6 +18,10 @@ Includes a brief description of filters used to select features and patients.
 
 Provides the meaning and content of each feature.
 
+## Preprocessing description ([disease]_filters.pdf)
+
+Provides the a brief description of the preprocessing steps applied. 
+
 ## Dataset folders
 
 Each dataset folder contains: 
