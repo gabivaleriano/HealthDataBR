@@ -4,11 +4,7 @@ This repository contains a collection of 12 real-world datasets carefully assemb
 
 ## Overview
 
-These datasets were derived from three distinct healthcare-related databases, resulting in six pairs of train and test sets. All data was collected in Brazil, with the following geographic coverage:
-
-    - Dengue-related datasets: Nationwide collection across Brazil.
-
-    - Other datasets: Data collected from a single city.
+These datasets were derived from three distinct healthcare-related databases, resulting in six pairs of train and test sets. All data was collected in Brazil, for the dengue-related datasets, data was gathered across the entire national territory, while for the other datasets, collection was limited to a single city. 
 
 Importantly, these datasets reflect real-world administrative and clinical data, routinely gathered during healthcare operations. They were not curated or cleaned specifically for machine learning tasks, making them particularly valuable for developing and testing algorithms in more realistic, noisy, and challenging environments.
 
